@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Abhijeet
+name: Abhijeet's Blog
 
 # Short bio or description (displayed in the header)
-description: Cloud Engineer
+description: Keep building!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/saitama.png
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
